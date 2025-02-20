@@ -58,7 +58,7 @@ def get_db():
         db.close()
 
 # Configure Gemini API
-genai.configure(api_key='AIzaSyC81Ikc85Z5geqcCtdElUjjH2aJKQmxHCM')
+genai.configure(api_key='Place your api key')
 model = genai.GenerativeModel('gemini-pro')
 
 # Available roles for interview
