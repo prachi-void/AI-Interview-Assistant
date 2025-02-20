@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+mysql-connector-python
+python-dotenv
+google-generativeai
+bcrypt 
